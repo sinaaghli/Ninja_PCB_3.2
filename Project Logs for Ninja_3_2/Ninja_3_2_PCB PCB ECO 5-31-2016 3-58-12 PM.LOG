@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=1V8_USB Pin=C61-1
+Added Pin To Net: NetName=GND_STM Pin=C61-2
+Added Member To Class: ClassName=FT4232_USB Member=Component C61 3.3uF

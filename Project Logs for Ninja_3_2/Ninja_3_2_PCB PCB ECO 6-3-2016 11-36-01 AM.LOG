@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=Enc1 NewDesignator=H3
+Change Component Designator: OldDesignator=Enc2 NewDesignator=H2
+Change Component Designator: OldDesignator=Enc3 NewDesignator=H1
+Change Component Designator: OldDesignator=Enc4 NewDesignator=H11
+Change Component Designator: OldDesignator=GPS NewDesignator=H20
+Change Component Designator: OldDesignator=Hall Sens1 NewDesignator=H18
+Change Component Designator: OldDesignator=J-TAG NewDesignator=H4
+Change Component Designator: OldDesignator=Oc1 NewDesignator=H17
+Change Component Designator: OldDesignator=Pot1 NewDesignator=H7
+Change Component Designator: OldDesignator=Pot2 NewDesignator=H8
+Change Component Designator: OldDesignator=Pot3 NewDesignator=H9
+Change Component Designator: OldDesignator=Pot4 NewDesignator=H10
+Change Component Designator: OldDesignator=Pot5 NewDesignator=H12
+Change Component Designator: OldDesignator=Pot6 NewDesignator=H16
+Change Component Designator: OldDesignator=USB1 NewDesignator=H19

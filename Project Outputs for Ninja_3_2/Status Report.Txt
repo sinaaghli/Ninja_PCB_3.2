@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Ninja_3_2.PrjPcb]
+   Generated File[Ninja_3_2_PCB.TXT]
+   Generated File[Ninja_3_2_PCB.LDP]
+   Generated File[Ninja_3_2_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:37:42 PM On 6/8/2016

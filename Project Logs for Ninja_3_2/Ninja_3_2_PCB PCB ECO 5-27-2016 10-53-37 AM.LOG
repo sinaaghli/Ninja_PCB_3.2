@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R79 Old Footprint=1608[0603] New Footprint=6332[2512]
+Added Room: Name=FT4232_USB
+Added Room: Name=IRFS7530_Driver
+Added Room: Name=IRFS_Bridges
+Added Room: Name=MPU9150_IMU
+Added Room: Name=STM32_Microcontroller

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Member To Class: ClassName=STM32_Microcontroller Member=Component R20 470
+Added Member To Class: ClassName=STM32_Microcontroller Member=Component R22 470

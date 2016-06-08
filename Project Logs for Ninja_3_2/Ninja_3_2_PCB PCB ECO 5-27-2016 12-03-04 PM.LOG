@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=H4 Old Footprint=HDR-2*5-0.05 New Footprint=HDR-2*5-0.05_Without_Through_Hole
+Change Component Footprint: Designator=H5 Old Footprint=Header 3  -MolexPicoBlade New Footprint=HDR1X3
+Change Component Footprint: Designator=H6 Old Footprint=Header 3  -MolexPicoBlade New Footprint=HDR1X3
+Change Component Footprint: Designator=H13 Old Footprint=Header 3  -MolexPicoBlade New Footprint=HDR1X3
+Change Component Footprint: Designator=H14 Old Footprint=Header 3  -MolexPicoBlade New Footprint=HDR1X3
+Change Component Footprint: Designator=H15 Old Footprint=Header 3  -MolexPicoBlade New Footprint=HDR1X3
+Added Component: Designator=BLDC1(TERM3)
+Added Component: Designator=R86(6332[2512])
